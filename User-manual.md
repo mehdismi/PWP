@@ -102,7 +102,7 @@ This setup is intended for development or local deployment. For production:
 - Disable DEBUG=True in settings.py
 - Use secure database credentials
 - Add proper domains to ALLOWED_HOSTS
-- Use HTTPS and reverse proxy like NGINX
+- Use HTTP and reverse proxy like NGINX
 
 ## Author & Support
 
